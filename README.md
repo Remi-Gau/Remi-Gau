@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 [![Personal Site](https://img.shields.io/badge/Citation_Metadata-blue?style=flat-square.svg)](https://github.com/Remi-Gau/meta)
 
 [![Rémi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remi-Gau&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Gau&langs_count=10&theme=tokyonight&layout=compact" alt="Rémi :: Top Langs" /></p>
