@@ -1,16 +1,9 @@
 ### Hi there, I am Rémi 👋
 
-Am a cognitive neuroscientist interested in helping others do better science.
+- Theory: I am a cognitive neuroscientist interested in helping others do better science.
+- Reality: I started as a biologist, now I spend my time telling people how they should name their files.
 
-<!--
-**Remi-Gau/Remi-Gau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
--->
+<hr>
 
 - 💬 Ask me about: [BIDS](https://bids-specification.readthedocs.io/en/stable/)
 
