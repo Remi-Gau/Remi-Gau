@@ -24,3 +24,8 @@
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Gau&langs_count=10&theme=tokyonight&layout=compact" alt="Rémi :: Top Langs" /></p>
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
