@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: [BIDS](https://bids-specification.readthedocs.io/en/stable/)
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - [Twitter](https://twitter.com/RemiGau)
   - <a rel="me" href="https://kolektiva.social/@RemiGau">Mastodon</a>
 
