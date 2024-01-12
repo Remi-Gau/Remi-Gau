@@ -32,15 +32,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 09 January 2024
+From: 07 November 2022 - To: 10 January 2024
 
-Total Time: 1,840 hrs
+Total Time: 1,848 hrs 37 mins
 
-Python             924 hrs 45 mins ████████████▓░░░░░░░░░░░░   50.26 %
-YAML               197 hrs 51 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Markdown           174 hrs 36 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-MATLAB             112 hrs 41 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Other              88 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Python             931 hrs 51 mins ████████████▓░░░░░░░░░░░░   50.41 %
+YAML               197 hrs 54 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Markdown           174 hrs 36 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+MATLAB             112 hrs 41 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Other              89 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->
