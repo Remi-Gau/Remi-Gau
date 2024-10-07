@@ -24,10 +24,7 @@
 
 [![Rémi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remi-Gau&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Gau&langs_count=10&theme=tokyonight&layout=compact" alt="Rémi :: Top Langs" /></p>
-
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Gau&langs_count=20&theme=tokyonight&layout=compact" alt="Rémi :: Top Langs" /></p>
 
 <!--START_SECTION:waka-->
 
@@ -44,5 +41,3 @@ Other                      140 hrs 1 min   █▒░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[![@remigau's Holopin board](https://holopin.me/remigau)](https://holopin.io/@remigau)
