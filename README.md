@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 16 May 2025
+From: 07 November 2022 - To: 17 May 2025
 
-Total Time: 3,972 hrs 55 mins
+Total Time: 3,973 hrs 48 mins
 
-Python                     2,224 hrs 45 mins██████████████░░░░░░░░░░░   56.00 %
+Python                     2,225 hrs 26 mins██████████████░░░░░░░░░░░   56.00 %
 YAML                       362 hrs 31 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
 Markdown                   330 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
 Other                      166 hrs 31 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
