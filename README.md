@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 03 June 2026
+From: 07 November 2022 - To: 04 June 2026
 
-Total Time: 5,139 hrs 20 mins
+Total Time: 5,144 hrs 51 mins
 
-Python                     3,113 hrs 31 mins     ███████████████░░░░░░░░░░   60.58 %
-YAML                       416 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Markdown                   347 hrs 23 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Other                      182 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-reStructuredText           158 hrs 36 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Python                     3,118 hrs 17 mins     ███████████████░░░░░░░░░░   60.61 %
+YAML                       416 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Markdown                   347 hrs 23 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Other                      182 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+reStructuredText           159 hrs 2 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
